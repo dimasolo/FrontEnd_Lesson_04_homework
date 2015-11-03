@@ -70,7 +70,7 @@ body {
 .flag_menu .maldives a {
 	background-image: url(../img/maldives_flag.png);
 }
-.contacts:after {
+.contacts::after {
 	content: ".";
 	display: block;
 	height: 0;
