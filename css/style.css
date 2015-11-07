@@ -96,7 +96,7 @@ body {
 	float: left;
 	display: block;
 	padding-left: 25px;
-	padding-right: 65px;
+	padding-right: 42px;
 	position: relative;
 	text-align: center;
 	
@@ -140,7 +140,7 @@ body {
 	overflow: hidden;
 }
 .leftColumn {
-	width: 15%;
+	width: 15.4%;
 	float: left;
 	padding-bottom: 20000px;
 	margin-bottom: -20000px;
@@ -150,6 +150,7 @@ body {
 	background: #edeef0;
 	border-right: 2px solid #c7cacf;
 	display: inline;
+	text-align: justify;
 }
 .information, .news, .centerColumn {
 	text-align: center;
@@ -159,7 +160,7 @@ body {
 	padding-bottom: 10px;
 }
 .centerColumn {
-	width: 64%;
+	width: 62%;
 	float: left;
 	padding-bottom: 20000px;
 	margin-bottom: -20000px;
@@ -168,7 +169,7 @@ body {
 	display: inline;
 }	
 .rightColumn {
-	width: 15%;
+	width: 15.55%;
 	float: left;
 	padding-bottom: 20000px;
 	margin-bottom: -20000px;
@@ -178,6 +179,7 @@ body {
 	background: #edeef0;
 	border-left: 2px solid #c7cacf;
 	display: inline;
+	text-align: justify;
 }
 .content::after {
 	content: ".";
